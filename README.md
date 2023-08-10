@@ -10,7 +10,7 @@ This repo will provide a resource to help newbies and transients gain some insig
 
 ## Analytics Toolbox
 #### Excel & VBA
-Did you know that a whopping 1.1 billion people use Excel, which amounts to more than 1 in 8 persons on the planet? Only a third of those users considered advanced to expert. 
+Did you know that a whopping 1.1 billion people use Excel, which amounts to more than 1 in 8 persons on the planet? Yet, only a third of those users considered advanced to expert. 
 
 #### SQL & NoSQL 
 In today's job market, you are not going to be successful or advance very far as a Data Analyst / Scientist without SQL & NoSQL knowledge.
