@@ -17,3 +17,6 @@ In today's job market, you are not going to be successful or advance very far as
 
 #### Python
 While there are a number of languauges and tools used in the Data Science world, python sits on the Data Science throne.  
+
+#### Tableau & Power BI
+Check Gartner and you will see Tableau and Power BI leading the top right magic quadrant, with no signs of cooling off soon.
