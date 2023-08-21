@@ -8,6 +8,8 @@ The Terminal program can be launched graphically or with a text-based command bo
 ### Via the run command 
 
 ### Graphically on Mac
+From your Mac Desktop, click the spotlight icon among the list of icons displayedin the top right corner. Typer the word terminal as shown below and press Enter key.
+
 ![terminal-app-mac](img/terminal-app-mac.png "How to launch terminal on Mac")
 
 ## Files and Folders
