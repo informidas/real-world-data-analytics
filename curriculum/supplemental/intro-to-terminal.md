@@ -21,7 +21,7 @@ When working in a terminal environment, it is important to have awareness of whe
 ![pwd-sample-output](img/pwd-sample-output.png "sample output on Mac for pwd terminal command")
 
 ### List files and directories in the current working directory
-```
+``` zsh
 ls
 ```
 ### List current directories in the current working directory 
