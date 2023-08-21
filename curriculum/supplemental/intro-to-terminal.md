@@ -67,5 +67,6 @@ The real benefit of creating folders is to allow us to organize and contain addi
     touch {name_of_file_including_extension}
 ```
 
+In the *example* below, we create three files (Dashboard.xlsw, jobs.csv, and manual.pdf) in the Week1 folder using the **touch** command
 ![create-file](img/create-file.png "Create Files")
 
