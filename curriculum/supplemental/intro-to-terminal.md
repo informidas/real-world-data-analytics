@@ -34,7 +34,7 @@ ls
 
 ## Understanding Absolute (/) and Relative (./) Paths
 Terminal offers great flexibility and timesaving features by allow users to give commands using absolute and relative paths. Absolute path requires an explicit reference beginning from the root folder (/) unless the current working directory is a part of the fully qualified path. While relative path requires a  reference to the target folder which is relative to the present working directory. For example, let's say our present working directory is **/Users/moc/sandbox** and we would like to create 3 directories (week1, week2, week3) in the **/Users/moc/training** folder. This is how we could achieve this using Absolute and Relative Paths:
-
+![absolute-vs-relative-path](img/absolute-vs-relative-path.png "Absolute vs. Relative path")
 ### Using Absolute path
 ``` zsh
     mkdir /Users/moc/training/week1 /Users/moc/training/week2 /Users/moc/training/week3
