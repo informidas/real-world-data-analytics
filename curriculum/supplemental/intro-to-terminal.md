@@ -25,7 +25,6 @@ When working in a terminal environment, it is important to have awareness of whe
 ls
 ```
 ![sample-output-for-ls-command](img/ls-sample-output.png "Sample output for ls command")
-### List current directories in the current working directory (dir)
 
 ### Make a Directory (i.e. folder) in the current working directory (mkdir)
 On Unix-like terminals (Mac, Linux) and modern versions of Windows we have the ability to create a new folder using the **mkdir** command. While legacy versions of Windows operating systems used **md** to make a directory, I think it is pretty safe to use the mkdir command in terminal environments for all of the above OS's.  
@@ -39,7 +38,7 @@ On Unix-like terminals (Mac, Linux) and modern versions of Windows we have the a
 ### Change directory to the newly created trainig directory (cd)
 Once a directory has been created, a user has the option to switch to that directory view its contents or add additional files or folders to the directory.
 
-![change-directories](img/change-directories.png "Changing into a Directory")
+![changing-directories](img/changing-directories.png "Changing into a Directory")
 
 ## Understanding Absolute (/) and Relative (./) Paths
 Terminal offers great flexibility and timesaving features by allow users to give commands using absolute and relative paths. Absolute path requires an explicit reference beginning from the root folder (/) unless the current working directory is a part of the fully qualified path. While relative path requires a  reference to the target folder which is relative to the present working directory. For example, let's say our present working directory is **/Users/moc/sandbox** and we would like to create 3 directories (week1, week2, week3) in the **/Users/moc/training** folder. This is how we could achieve this using Absolute and Relative Paths.
