@@ -75,12 +75,39 @@ In the *example* below, we create three files (Dashboard.xlsw, jobs.csv, and man
 ### Removing Files (rm) and Directories (rmdir)
 We have two commands that can be used to remove files and folders respectively. First, we will look at the simple case for both before introducing additional scenarios which create the need for modifiers which are more commonly referred to as flags.
 
-removing a file
+**removing a file**
 ``` zsh
     rm {file_name_including_extension}
 ```
 
-removing an empty directory
+**removing an empty directory**
 ``` zsh
     rmdir {name_of_directory}
 ```
+
+## Using Flags as Command modifiers in Terminal
+Often times, using a terminal command by itself is not enough to achieve the output or outcome that we need. To use flags, we list the command then add a dash then the particular modifier:
+``` zsh
+    command -flag
+```
+
+### Using Flags with List command (-al | la)
+One of the most useful flags used is for listing details about a file including:
+- file permission
+- file owner
+- creation date
+- file size
+
+``` zsh
+    ls -al
+```
+
+![ls-al-flag](img/ls-al-flag.png "Flag Modifier")
+
+Note that the modifiers can be listed in any order
+
+``` zsh
+    ls -la
+```
+
+![ls-la-flag](img/ls-la-flag.png "Alternate Flag Modifier")
