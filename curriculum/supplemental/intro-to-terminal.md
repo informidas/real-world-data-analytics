@@ -20,9 +20,9 @@ When working in a terminal environment, it is important to have awareness of whe
 
 ![pwd-sample-output](img/pwd-sample-output.png "sample output on Mac for pwd terminal command")
 
-It is also important to view the contents of the current directory you are in.
-
 ### List files and directories in the current working directory (ls)
+It is also important to view the contents of the current directory you are in. We achieve this using the list command
+
 ``` zsh
     ls
 ```
