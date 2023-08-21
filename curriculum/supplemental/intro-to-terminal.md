@@ -48,21 +48,21 @@ Terminal offers great flexibility and timesaving features by allow users to give
 ### First confirm our current location
 ![absolute-vs-relative-path](img/absolute-vs-relative-path.png "Absolute vs. Relative path")
 
-### Using Absolute path
+### Using Absolute path (/)
 ``` zsh
     mkdir /Users/moc/training/week1 /Users/moc/training/week2 /Users/moc/training/week3
 ```
 
 ![new-folders-created](img/new-folders-created.png "New Folders Created")
 
-### Using Relative path
+### Using Relative path (./)
 ``` zsh
     mkdir ../training/week1 ../training/week2 ../training/week3
 ```
 
 ![new-folders-created](img/new-folders-created.png "New Folders Created")
 
-### Creating Files 
+### Creating Files (touch)
 The real benefit of creating folders is to allow us to organize and contain additional folders (i.e. sub-folders) and files. We already know the command to create a folder and creating a file is just as simple.
 
 ``` zsh
