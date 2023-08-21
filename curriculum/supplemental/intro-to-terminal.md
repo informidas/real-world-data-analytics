@@ -8,6 +8,6 @@ The Terminal program can be launched graphically or with a text-based command bo
 ### Via the run command 
 
 ### Graphically on Mac
-![terminal-app-mac](.img/terminal-app-mac.png "How to launch terminal on Mac")
+![terminal-app-mac](img/terminal-app-mac.png "How to launch terminal on Mac")
 
 ## Files and Folders
