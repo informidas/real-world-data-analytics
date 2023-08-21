@@ -22,7 +22,7 @@ When working in a terminal environment, it is important to have awareness of whe
 
 ### List files and directories in the current working directory (ls)
 ``` zsh
-ls
+    ls
 ```
 ![sample-output-for-ls-command](img/ls-sample-output.png "Sample output for ls command")
 
@@ -43,6 +43,7 @@ Once a directory has been created, a user has the option to switch to that direc
 ## Understanding Absolute (/) and Relative (./) Paths
 Terminal offers great flexibility and timesaving features by allow users to give commands using absolute and relative paths. Absolute path requires an explicit reference beginning from the root folder (/) unless the current working directory is a part of the fully qualified path. While relative path requires a  reference to the target folder which is relative to the present working directory. For example, let's say our present working directory is **/Users/moc/sandbox** and we would like to create 3 directories (week1, week2, week3) in the **/Users/moc/training** folder. This is how we could achieve this using Absolute and Relative Paths.
 
+### First confirm our current location
 ![absolute-vs-relative-path](img/absolute-vs-relative-path.png "Absolute vs. Relative path")
 
 ### Using Absolute path
@@ -58,4 +59,13 @@ Terminal offers great flexibility and timesaving features by allow users to give
 ```
 
 ![new-folders-created](img/new-folders-created.png "New Folders Created")
+
+### Creating Files 
+The real benefit of creating folders is to allow us to organize and contain additional folders (i.e. sub-folders) and files. We already know the command to create a folder and creating a file is just as simple.
+
+``` zsh
+    touch {name_of_file_including_extension}
+```
+
+![create-file](img/create-file.png "Create Files")
 
