@@ -36,7 +36,7 @@ On Unix-like terminals (Mac, Linux) and modern versions of Windows we have the a
 ![make-directory-training](img/make-directory-training.png "Make Directory Training")
 
 ### Change directory to the newly created trainig directory (cd)
-Once a directory has been created, a user has the option to switch to that directory view its contents or add additional files or folders to the directory.
+Once a directory has been created, a user has the option to switch to that directory to view its contents or add additional files or folders to the directory.
 
 ![changing-directories](img/changing-directories.png "Changing into a Directory")
 
