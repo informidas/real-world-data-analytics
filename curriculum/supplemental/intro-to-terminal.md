@@ -72,3 +72,15 @@ The real benefit of creating folders is to allow us to organize and contain addi
 In the *example* below, we create three files (Dashboard.xlsw, jobs.csv, and manual.pdf) in the Week1 folder using the **touch** command
 ![create-file](img/create-file.png "Create Files")
 
+### Removing Files (rm) and Directories (rmdir)
+We have two commands that can be used to remove files and folders respectively. First, we will look at the simple case for both before introducing additional scenarios which create the need for modifiers which are more commonly referred to as flags.
+
+removing a file
+``` zsh
+    rm {file_name_including_extension}
+```
+
+removing an empty directory
+``` zsh
+    rmdir {name_of_directory}
+```
