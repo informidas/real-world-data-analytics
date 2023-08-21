@@ -24,5 +24,6 @@ When working in a terminal environment, it is important to have awareness of whe
 ``` zsh
 ls
 ```
+![sample-output-for-ls-command](img/ls-sample-output.png "Sample output for ls command")
 ### List current directories in the current working directory 
 ## Files and Folders
