@@ -45,4 +45,7 @@ Terminal offers great flexibility and timesaving features by allow users to give
 ### Using Relative path
 ``` zsh
     mkdir ../training/week1 ../training/week2 ../training/week3
-``` 
+```
+
+![new-folders-created](img/new-folders-created.png "New Folders Created")
+
