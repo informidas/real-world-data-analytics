@@ -17,4 +17,7 @@ When working in a terminal environment, it is important to have awareness of whe
 ``` zsh
     pwd
 ```
+
+![pwd-sample-output](img/pwd-sample-output.png "sample output on Mac for pwd terminal command")
+
 ## Files and Folders
