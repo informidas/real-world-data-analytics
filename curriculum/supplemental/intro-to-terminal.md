@@ -30,6 +30,12 @@ ls
 ### Make a Directory (i.e. folder) in the current working directory (mkdir)
 On Unix-like terminals (Mac, Linux) and modern versions of Windows we have the ability to create a new folder using the **mkdir** command. While legacy versions of Windows operating systems used **md** to make a directory, I think it is pretty safe to use the mkdir command in terminal environments for all of the above OS's.  
 
+``` zsh
+    mkdir {name_of_directy}
+```
+
+![make-directory-training](img/make-directory-training.png "Make Directory Training")
+
 ### Change location to another working directory (cd)
 
 
