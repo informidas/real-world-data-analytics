@@ -12,4 +12,9 @@ From your Mac Desktop, click the spotlight icon among the list of icons displaye
 
 ![terminal-app-mac](img/terminal-app-mac.png "How to launch terminal on Mac")
 
+### Present working directory (pwd)
+When working in a terminal environment, it is important to have awareness of where you are executing commands from. Just like a house or a building, you need to know where you are starting from to be able to navigate to the room, floor or section of the house or building that you need to get to. Use the following command to determine your current location:
+``` zsh
+    pwd
+```
 ## Files and Folders
