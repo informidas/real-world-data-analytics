@@ -9,6 +9,9 @@ In Windows, we can launch the Terminal graphically by typing terminal in the sea
 ![terminal-app-windows](img/launch-terminal-graphically-windows.png "How to launch terminal on Windows")
 
 ### Via the run command 
+Alternately, we could also type **cmd** in the search field on the taskbar and press ENTER to launch the terminal window.
+
+![run-cmd-command](img/run-cmd-command.png "How to launch terminal on Windows using CMD command")
 
 ### Graphically on Mac
 From your Mac Desktop, click the spotlight icon among the list of icons displayedin the top right corner. Type the word terminal as shown below and press Enter key.
