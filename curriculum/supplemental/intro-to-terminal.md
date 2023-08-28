@@ -27,7 +27,11 @@ In Computer Science, we often use a Tree analogy to decribe the storage structur
 See Terminal root Directory on Windows.
 ![root-in-terminal-app](img/root-in-terminal-app.png "Root Directory in Terminal App")
 
-Most times, when you launch a terminal window, it will default to what is known as a users home directory, which is different than the root directory in most cases. 
+### User Home Directory
+Most times, when you launch a terminal window, it will default to what is known as a users home directory, which is different than the root directory in most cases. A User's home directory is like a branch, which though it belongs to the tree, has it's own distinct sub-branches (i.e. sub-directories) and leaves (i.e. files).
+
+example of home directory
+![home-directory-for-user](img/user-home-directory.png "User Home Directory")
 
 ### Present working directory (pwd)
 When working in a terminal environment, it is important to have awareness of where you are executing commands from. Just like a house or a building, you need to know where you are starting from to be able to navigate to the room, floor or section of the house or building that you need to get to. Use the following command to determine your current location:
