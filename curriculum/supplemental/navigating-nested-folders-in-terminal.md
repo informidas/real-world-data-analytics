@@ -19,6 +19,8 @@ To navigate to a l
     cd ../..
 ```
 
+see example below
+![one-directory-up](img/one-directory-up.png "One Directory Up")
 
 ## When to Use Absolute vs. Relative
 
