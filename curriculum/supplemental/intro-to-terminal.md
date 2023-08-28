@@ -49,6 +49,13 @@ It is also important to view the contents of the current directory you are in. W
 ```
 ![sample-output-for-ls-command](img/ls-sample-output.png "Sample output for ls command")
 
+### Changing a directory (cd)
+To navigate from one directory to another, we must type the command **cd** {name of the directory we want to change to. For example to move from say from a User's home directory to the root directy, you would type the below:
+
+``` zsh
+    cd \
+```
+
 ### Make a Directory (i.e. folder) in the current working directory (mkdir)
 On Unix-like terminals (Mac, Linux) and modern versions of Windows we have the ability to create a new folder using the **mkdir** command. While legacy versions of Windows operating systems used **md** to make a directory, I think it is pretty safe to use the mkdir command in terminal environments for all of the above OS's.  
 
