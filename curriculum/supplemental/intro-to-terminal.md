@@ -9,7 +9,7 @@ In Windows, we can launch the Terminal graphically by typing terminal in the sea
 ![terminal-app-windows](img/launch-terminal-graphically-windows.png "How to launch terminal on Windows")
 
 ### Via the run command 
-Alternately, we could also type **cmd** in the search field on the taskbar and press ENTER to launch the terminal window.
+Alternately, we could also type **cmd** or **command** in the search field on the taskbar and press ENTER to launch the terminal window.
 
 ![run-cmd-command](img/run-cmd-command.png "How to launch terminal on Windows using CMD command")
 
@@ -21,8 +21,8 @@ From your Mac Desktop, click the spotlight icon among the list of icons displaye
 ## How does the terminal work?
 The terminal is an interactive shell which accepts user input as text-base inputs as commands instructing the computer's operating system to perform some action. While the commands can seem terse and cryptic at first, you really need to learn a handful of commands to be functional as a Data Analytics professional.
 
-## Root Directory (\ on Windows, / MAC and Unix / Linux based systems)
-
+## Root Directory (\ on Windows, / MAC, Unix and Linux based systems)
+In Computer Science, we often use a Tree analogy to decribe the storage structure of progams, directories and files on a computer hard drive. Just as the base of the tree is called the root, the containing volume of a computer storage is called the root. It is symbolized with a forward or backward slash (depending on the operating system you are using terminal on). 
 
 ### Present working directory (pwd)
 When working in a terminal environment, it is important to have awareness of where you are executing commands from. Just like a house or a building, you need to know where you are starting from to be able to navigate to the room, floor or section of the house or building that you need to get to. Use the following command to determine your current location:
