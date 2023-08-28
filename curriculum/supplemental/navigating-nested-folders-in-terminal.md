@@ -28,4 +28,4 @@ To navigate 2 levels up from the current path use the following command:
 ```
 
 see example below
-![2-directories-up](img/[two-directories-up.png "Two Directories Up")
+![two-directories-up](img/[two-directories-up.png "Two Directories Up")
