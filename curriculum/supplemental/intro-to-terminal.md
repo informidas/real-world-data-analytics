@@ -24,6 +24,8 @@ The terminal is an interactive shell which accepts user input as text-base input
 ## Root Directory (\ on Windows, / MAC, Unix and Linux based systems)
 In Computer Science, we often use a Tree analogy to decribe the storage structure of progams, directories and files on a computer hard drive. Just as the base of the tree is called the root, the containing volume of a computer storage is called the root. It is symbolized with a forward or backward slash (depending on the operating system you are using terminal on). 
 
+![root-in-terminal-app](img/root-in-terminal-app.png "Root Directory in Terminal App")
+
 ### Present working directory (pwd)
 When working in a terminal environment, it is important to have awareness of where you are executing commands from. Just like a house or a building, you need to know where you are starting from to be able to navigate to the room, floor or section of the house or building that you need to get to. Use the following command to determine your current location:
 ``` zsh
