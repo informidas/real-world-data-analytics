@@ -139,3 +139,19 @@ Note that the modifiers can be listed in any order
 ```
 
 ![ls-la-flag](img/ls-la-flag.png "Alternate Flag Modifier")
+
+### Removing Directories containing files
+A typical use case is removing directories containing other directories and / or files. In this case, we need to use a a special flag to show that we would like to recursively remove each and every one of the files and subdirectories contained within the directory.
+
+``` zsh
+   rm -rf 
+```
+In the example below, we have a folder C:\Users\KarlRamsay\Downloads\temp which contains 4 files:
+*test_file1.txt  test_file2.txt  test_file3.txt  test_file4.txt*
+
+Using the remove command with the *-rf* flag we recursively remove the temp folder and each of the four containing files.
+**Note**: We must first come outside the folder (at lease one level up) before we run teh command. Just think of this as being outside the house or the room before destroying it. 
+
+![remove-directory-recursively](img/remove-directory-recursively.png "Remove Folder Recursively")
+
+
