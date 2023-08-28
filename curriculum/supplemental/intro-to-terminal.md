@@ -151,7 +151,8 @@ In the example below, we have a folder C:\Users\KarlRamsay\Downloads\temp which 
 
 Using the remove command with the *-rf* flag we recursively remove the temp folder and each of the four containing files.<br/>
 
-**Note**: We must first come outside the folder (at lease one level up) before we run teh command. Just think of this as being outside the house or the room before destroying it. <br />
+**Note**: We must first come outside the folder (at lease one level up) before we run the command. Just think of this as being outside the house or the room before destroying it. <br />
+
 Once removed, any attempt to **cd** into the directory will produce the message: *The system cannot find the path specified*
 
 ![remove-directory-recursively](img/remove-directory-recursively.png "Remove Folder Recursively")
