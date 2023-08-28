@@ -4,7 +4,7 @@ The following provides a basic introduction into the world of Terminal (on Windo
 The Terminal program can be launched graphically or with a text-based command both on Windows and Mac.
 
 ### Graphically on Windows
-In Windows, we can launch the Terminal graphically from the start Menu or by typing terminal in the search box on the task bar, then clicking on the terminal icon as shown below:
+In Windows, we can launch the Terminal graphically by typing terminal in the search box on the task bar, then clicking on the terminal icon as shown below:
 
 ![terminal-app-windows](img/launch-terminal-graphically-windows.png "How to launch terminal on Windows")
 
